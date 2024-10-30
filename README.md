@@ -6,6 +6,8 @@ I'M Deverloper Beging 👨‍🎓
 
 “I am studying and practicing coding skills at the undergraduate level. It focuses on developing and creating an understanding of the basics of program development. as well as solving problems with various coding languages ​​to prepare for the application of knowledge in related fields in the future."
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/RwpAY9p76VsAAAAi/no-sleep.gif">
+
 * 🌍  I'm based in PhaYao
 * ✉️  You can contact me at [NOTING](mailto:NOTING)
 * 🧠  I'm learning Computer Science
