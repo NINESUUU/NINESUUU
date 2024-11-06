@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/NINESUUU?logo=github&style=for-the-
 
 ### Badges
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/XOsX.mp4">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/XOsX.gif">
 
 <b>My GitHub Stats</b>
 
