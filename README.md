@@ -23,6 +23,8 @@ src="https://img.shields.io/github/followers/NINESUUU?logo=github&style=for-the-
 
 ### Badges
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/XOsX.mp4">
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/NINESUUU"><img src="https://github-readme-stats.vercel.app/api?username=NINESUUU&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="NINESUUU's GitHub stats" /></a>
