@@ -12,7 +12,6 @@ I'M Deverloper Beging 👨‍🎓
 * ✉️  You can contact me at [NOTING](mailto:NOTING)
 * 🧠  I'm learning Computer Science
 * 🤝  I'm open to collaborating on Studying, creating websites
-* ⚡  one with darkness
 
 <a href="https://www.github.com/NINESUUU" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NINESUUU?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
